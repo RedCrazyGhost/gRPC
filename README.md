@@ -8,7 +8,7 @@
 - [ ] write Readme doc
 
 ## Golang
-- [ ] Golang gRPC Demo Code
+- [X] Golang gRPC Demo Code
 - [ ] write Readme doc
 
 ## Python
