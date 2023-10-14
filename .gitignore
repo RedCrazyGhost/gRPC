@@ -1,0 +1,44 @@
+### VS Code ###
+.vscode/
+Golang-gRPC/.vscode
+Java-gRPC/.vscode
+Python-gRPC/.vscode
+
+### Mac OS ###
+.DS_Store
+Golang-gRPC/.DS_Store
+Java-gRPC/.DS_Store
+Python-gRPC/.DS_Store
+
+### IntelliJ IDEA ###
+.idea
+Golang-gRPC/.idea
+Java-gRPC/.idea
+Python-gRPC/.idea
+
+### Java-gRPC ###
+Java-gRPC/target/
+Java-gRPC/!.mvn/wrapper/maven-wrapper.jar
+Java-gRPC/!**/src/main/**/target/
+Java-gRPC/!**/src/test/**/target/
+
+
+### Eclipse ###
+Java-gRPC/.apt_generated
+Java-gRPC/.classpath
+Java-gRPC/.factorypath
+Java-gRPC/.project
+Java-gRPC/.settings
+Java-gRPC/.springBeans
+Java-gRPC/.sts4-cache
+
+### NetBeans ###
+Java-gRPC/nbproject/private/
+Java-gRPC/nbbuild/
+Java-gRPC/dist/
+Java-gRPC/nbdist/
+Java-gRPC/.nb-gradle/
+Java-gRPC/build/
+Java-gRPC/!**/src/main/**/build/
+Java-gRPC/!**/src/test/**/build/
+
