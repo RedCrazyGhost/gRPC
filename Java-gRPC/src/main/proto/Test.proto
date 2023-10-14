@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "redcrazyghost";
+option java_outer_classname = "TestProto";
+option java_multiple_files = true;
+
+service Test {
+  rpc GetTestData (GetTestDataRequest) returns (GetTestDataResponse) {}
+}
+
+message GetTestDataRequest{
+  string name = 1;
+  string type = 2;
+  string version = 3;
+  string technology = 4;
+}
+
+message GetTestDataResponse{
+  string name = 1;
+  int32 port = 2;
+  string version = 3;
+  string technology = 4;
+}
