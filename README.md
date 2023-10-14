@@ -14,3 +14,7 @@
 ## Python
 - [ ] Python gRPC Demo Code
 - [ ] write Readme doc
+
+
+参考内容：
+- [proto3语法指南](https://protobuf.dev/programming-guides/proto3/)
