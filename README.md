@@ -1,4 +1,4 @@
-> 此仓库作为Java、Golang、Python三种语言gRPC Demo
+> 此仓库作为Java和Golang两种编程语言gRPC Demo的整合仓库
 
 # TODO
 - [ ] write Readme doc
@@ -9,10 +9,6 @@
 
 ## Golang
 - [X] Golang gRPC Demo Code
-- [ ] write Readme doc
-
-## Python
-- [ ] Python gRPC Demo Code
 - [ ] write Readme doc
 
 
